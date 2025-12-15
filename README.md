@@ -57,7 +57,7 @@ recordings/
 docs/
  data_dictionary.ipynb # Data dictionary and schema
 
-read_me.mb # This file
+read_me.md # This file
 
 
 **Data Access:**
@@ -110,7 +110,8 @@ Full dataset is large; use the synthetic sample for quick testing.
 
 Interactive dashboards and Folium maps require Jupyter Notebook or JupyterLab.
 
-Contact / Author:
+
+**Contact / Author:**
 
 Name: Tsion Temesgen
 
